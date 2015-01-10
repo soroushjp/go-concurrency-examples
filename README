@@ -1,0 +1,9 @@
+Simple Go code to play around with concurrency in Go:
+
+- Timers
+- Tickers
+- Worker Pools
+- Rate Limiting
+- Atomic Counters
+- Mutexes
+- Stateful goroutines
